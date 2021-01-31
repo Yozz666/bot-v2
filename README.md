@@ -1,6 +1,6 @@
-<p align="center">
-<img src="𝙢𝙪𝙝𝙖𝙢𝙢𝙖𝙙 𝙍𝙞𝙯𝙠𝙞 𝙁𝙖𝙙𝙞𝙡𝙡𝙖𝙝/revision/latest/top-crop/width/300/height/300?cb=20190417164406" width="128" height="128"/>
-</p>
+
+
+
 <p align="center">
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
