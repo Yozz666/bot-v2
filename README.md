@@ -18,7 +18,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/yozz666/bit-v2
+> git clone https://github.com/yozz666/bot-v2
 ```
 
 ## Install the dependencies: 𝓨𝓸𝓾𝓻𝓴𝓷𝓽𝓵
