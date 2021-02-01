@@ -25,5 +25,5 @@
 
 ```bash
 > cd bot-v2
-> bash install.sh
+> RAGHAD THOLOL
 ```
